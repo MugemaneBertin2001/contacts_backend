@@ -15,7 +15,6 @@ Before you start, make sure you have the following tools installed on your syste
 
 ```bash
 git clone https://github.com/MugemaneBertin2001/contacts_backend.git
-2. Install the dependencies:
 ```
 2. Install the dependencies:
 ```bash
