@@ -16,5 +16,12 @@ To install Contact_Backend, follow these steps:
 ```bash
 git clone https://github.com/MugemaneBertin2001/contacts_backend.git
 2. Install the dependencies:
+```
+2. Install the dependencies:
 ```bash
 npm install
+```
+3. Start the MongoDB server:
+```bash
+mongod
+```
