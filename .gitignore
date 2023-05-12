@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directories
+dist/
+build/
+out/
+public/
+bin/
+bundle/
+__sapper__/
+.cache/
+.next/
+.build/
+build-cache/
+pids/
+logs/
+results/
+coverage/
+.nyc_output/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+*.env.local
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
