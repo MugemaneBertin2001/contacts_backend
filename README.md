@@ -58,4 +58,6 @@ If you want to contribute to Contact_Backend, please follow these guidelines:
 2. Write clear commit messages and submit a pull request.
 3. Follow the code style guidelines in .eslintrc.json.
  # License
+ Contact_Backend is licensed under the MIT License. See LICENSE for more information.
+ # Contact
  If you have any questions or feedback, please contact the developer at bertin.m2001@gmail.com.
