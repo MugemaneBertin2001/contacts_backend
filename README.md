@@ -31,6 +31,13 @@ npm start
 ##### The application will start running at http://localhost:3000.
 # Usage
 To use Contact_Backend, follow these steps:
+## supported endpoints:
+- for users
+1. http://localhost:3000/users/login
+2. http://localhost:3000/users/register
+- for contact
+1. http://localhost:3000/contacts
+2. http://localhost:3000/contacts/:id
 
 1. Register a new user by sending a POST request to /register with the following data:
 ```json
